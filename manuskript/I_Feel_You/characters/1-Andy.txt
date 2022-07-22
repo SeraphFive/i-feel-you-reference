@@ -1,0 +1,12 @@
+Name:                Andy
+ID:                  1
+Importance:          2
+POV:                 True
+Motivation:          Apprendre comment gérer ses émotions débordantes, les canaliser, et leur donner un sens;
+                     Ne pas être le fardeau de Nate, mais plutôt son gardien, son compagnon de route qui peut le comprendre comme personne;
+Goal:                Essayer de comprendre pourquoi il s'est retrouvé dans la tête de Nate;
+                     Limiter les dégâts de sa disparition sur ses proches;
+Conflict:            Aucun.
+Epiphany:            Nate et lui ne forment qu'une seule âme, si riche qu'elle n'est pas parvenue à s'incarner en une seule personne. Nate est la partie représentant l'extroversion, l'empathie et le contact au monde; Andy est celle représentant les émotions, les sentiments, et l'énergie. De vivre des vies séparées leur a permis de se développer en tant que deux âmes complètes distinctes, rendant leur complémentarité bien supérieure à simplement *une* âme;
+                     Andy aime Nate et s'il culpabilise d'avoir été l'élément perturbateur de sa vie *a priori* tranquille, il lui doit énormément.
+Color:               #3086ef
