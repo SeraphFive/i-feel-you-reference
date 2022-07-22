@@ -6,7 +6,8 @@
     </outline>
     <outline name="Interprétations" ID="5"/>
     <outline name="Personnages" ID="6">
-      <outline name="Nate" ID="7" description="# Nate&#10;&#10;## Informations"/>
+      <outline name="Nate" ID="7" description="# Nate&#10;&#10;## Informations&#10;&#10;wip&#10;&#10;## Apparence&#10;&#10;wip&#10;&#10;## Passé&#10;&#10;wip"/>
+      <outline name="Andy" ID="9" description="# Andy&#10;&#10;## Informations&#10;&#10;wip&#10;&#10;## Apparence&#10;&#10;wip&#10;&#10;## Passé&#10;&#10;wip"/>
     </outline>
     <outline name="Ressources" ID="0">
       <outline name="Art" ID="1">
