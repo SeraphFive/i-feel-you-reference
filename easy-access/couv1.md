@@ -20,7 +20,7 @@ On peut aussi voir quelques feuilles d'arbre se détacher et planer. Il peut sem
 
 ### Point de vue
 
-Au milieu de la route, en biais (la route semble aller vers un coin latéral arrière de la scène, du côté où le soleil semble se lever/la lumière du jour semble apparaître, parce que ladite lumière sera forcément plus visible de ce côté et non de l'autre où les maisons cacheront un peu plus le ciel), aucune plongée ou contre-plongée (horizontal)
+Au milieu de la route, en biais (la route semble aller vers un coin latéral arrière de la scène,, normalement à gauche car du côté menant à la tranche et à la quatrième de couverture, du côté où le soleil semble se lever/la lumière du jour semble apparaître, parce que ladite lumière sera forcément plus visible de ce côté et non de l'autre où les maisons cacheront un peu plus le ciel), aucune plongée ou contre-plongée (horizontal)
  
 ---
 
@@ -34,17 +34,17 @@ Au milieu de la route, en biais (la route semble aller vers un coin latéral arr
 ### Habillage
 
  * Nate&nbsp;: 
-  * Cou&nbsp;: choker noir + collier argenté avec un croissant de lune (également argenté) en pendentif
-  * Haut&nbsp;: T-shirt sans manches moulant couleur noir uni à col rond **+** courte veste style perfecto couleur blanc/blanc cassé, à demi enfilé (porté sous les épaules)
-  * Bras et mains&nbsp;: montre analogique en cuir noir à cadran rectangulaire doré sur le poignet droit, ruban vert noué au poignet gauche, bague classique argentée à liseret noir sur le majeur gauche
-  * Bas&nbsp;: jeans regular noirs grossièrement déchirés aux genoux (avec quelques fils encore en place), ceinture en cuir noir apparente serrée assez haut (au dessus de la taille) et couvrant le T-shirt, avec boucle or/orange léger en forme de soleil (cercle et rayons)
-  * Chaussures&nbsp;: boots style Doc Martens noires montantes à lacets gris et petit dessin blanc d'étoile filante le long de la cheville
+	* Cou&nbsp;: choker noir + collier argenté avec un croissant de lune (également argenté) en pendentif
+	* Haut&nbsp;: T-shirt sans manches moulant couleur noir uni à col rond **+** courte veste style perfecto couleur blanc/blanc cassé, à demi enfilé (porté sous les épaules)
+	* Bras et mains&nbsp;: montre analogique en cuir noir à cadran rectangulaire doré sur le poignet droit, ruban vert noué au poignet gauche, bague classique argentée à liseret noir sur le majeur gauche
+	* Bas&nbsp;: jeans regular noirs grossièrement déchirés aux genoux (avec quelques fils encore en place), ceinture en cuir noir apparente serrée assez haut (au dessus de la taille) et couvrant le T-shirt, avec boucle or/orange léger en forme de soleil (cercle et rayons)
+	* Chaussures&nbsp;: boots style Doc Martens noires montantes à lacets gris et petit dessin blanc d'étoile filante le long de la cheville
  * Andy (<u>**note&nbsp;:** les couleurs n'importent quasiment pas, Andy étant un spectre de lumière dont la couleur dépend de ses émotions. Certaines couleurs sont mentionnées uniquement dans un souci de tons et de contraste. Voir sa page de personnage</u>)&nbsp;:
-  * Cou&nbsp;: collier en fil noir fin, avec pendentif en forme de soleil
-  * Haut&nbsp;: Pull inter-saison bleu, col épais mais pas montant **+** veste à capuche et lacets (ouverte)  gris foncé **+** veste style jeans (ouverte) blanche/blanc cassé
-  * Bras et mains&nbsp;: ruban bleu noué au poignet droit. **Important**&nbsp;: Le ruban est l'un des seuls éléments du spectre dont la couleur est fixe.
-  * Bas&nbsp;: jeans slim avec ceinture apparente couvrant le pull, avec boucle apparente en forme de croissant de lune
-  * Chaussures&nbsp;: Converse basses avec un petit dessin d'étoile filante à l'intérieur du cercle contenant le logo
+	* Cou&nbsp;: collier en fil noir fin, avec pendentif en forme de soleil
+	* Haut&nbsp;: Pull inter-saison bleu, col épais mais pas montant **+** veste à capuche et lacets (ouverte)  gris foncé **+** veste style jeans (ouverte) blanche/blanc cassé
+	* Bras et mains&nbsp;: ruban bleu noué au poignet droit. **Important**&nbsp;: Le ruban est l'un des seuls éléments du spectre dont la couleur est fixe.
+	* Bas&nbsp;: jeans slim avec ceinture apparente couvrant le pull, avec boucle apparente en forme de croissant de lune
+	* Chaussures&nbsp;: Converse basses avec un petit dessin d'étoile filante à l'intérieur du cercle contenant le logo
   
 ### Description et positionnement
 
@@ -57,3 +57,9 @@ Andy est un petit peu en retrait, tourné vers l'extérieur à 45 degrés, sa ma
 Andy est sous forme de spectre, donc ses couleurs ont une importance. Dans cette couverture, la silhouette et détails de son spectre (donc tout le lining, ce qui fait qu'on reconnaît son visage, son corps, et ses vêtements et accessoires) sont des tons bleus et verts, brillants et scintillants. Au niveau de son coeur naît un nuage de toutes les couleurs, contenu dans l'enceinte de son corps, qui se répand assez et *surtout* qui se dirige tout au long de son bras jusqu'à la main qui est tendue vers Nate, pour en sortir et sembler se lier à lui.
 
 Détail à noter&nbsp;: le ruban aux poignets de Nate et Andy sont très visibles et leur couleur est fixe, telle que définie dans la description visuelle des personnages dans la section précédente.
+
+---
+
+## Quatrième
+
+La quatrième de couverture est la continuité du décor de la première, c'est à dire la suite de la route avec vue sur le ciel, et éventuellement, vu le grand angle, une vue en biais du trottoir de gauche et de quelques maisons.
