@@ -1,84 +1,202 @@
 # Plot outline // Plan du scénario
 
-## Sommaire
+Légende des flags :
 
-- [Plot outline // Plan du scénario](#plot-outline--plan-du-scénario)
-  - [Sommaire](#sommaire)
-  - [Part 1 : A Matter of Emotions // Une Histoire d'Émotions](#part-1--a-matter-of-emotions--une-histoire-démotions)
-    - [Now is the time // Quand il faut y aller](#now-is-the-time--quand-il-faut-y-aller)
-    - [Nate & Andy](#nate--andy)
-    - [Echo](#echo)
-    - [Feelings are tough, man // Énigme de sentiments](#feelings-are-tough-man--énigme-de-sentiments)
-    - [Odd circumstances // Choix de perspectives](#odd-circumstances--choix-de-perspectives)
-    - [The little voice // La petite voix](#the-little-voice--la-petite-voix)
-    - [Well that's unusual // Ingéniosité](#well-thats-unusual--ingéniosité)
-    - [Guessing game // Prendre ses marques](#guessing-game--prendre-ses-marques)
-    - [Crossing the bridge // Le grand voyage](#crossing-the-bridge--le-grand-voyage)
-  - [Part 2 : Wonders of the Synthesis // Merveilles de la Synthèse](#part-2--wonders-of-the-synthesis--merveilles-de-la-synthèse)
-    - [In loving memory // La soirée d'adieu](#in-loving-memory--la-soirée-dadieu)
-    - [You mean... everything ? // Implications complexes](#you-mean-everything---implications-complexes)
-    - [It only takes two // La troisième roue](#it-only-takes-two--la-troisième-roue)
-    - [The short // Le court-métrage](#the-short--le-court-métrage)
-    - [Dreamback // Machine arrière](#dreamback--machine-arrière)
-    - [Neridium (chapitre hors timeline)](#neridium-chapitre-hors-timeline)
-    - [For each other // L'un pour l'autre](#for-each-other--lun-pour-lautre)
-  - [Part 3 : The Lost Souls // Les âmes perdues](#part-3--the-lost-souls--les-âmes-perdues)
-    - [Everything is fine // Péter la forme](#everything-is-fine--péter-la-forme)
-    - [The things you notice // La vérité en face](#the-things-you-notice--la-vérité-en-face)
-    - [Jammed // Brouillé](#jammed--brouillé)
-    - [If you can hear me // Si tu peux m'entendre](#if-you-can-hear-me--si-tu-peux-mentendre)
-    - [Something priceless // Richesse inégalée](#something-priceless--richesse-inégalée)
-  - [Epilogue](#epilogue)
-    - [The Answer // La Réponse](#the-answer--la-réponse)
+**★** : **Moment important**  
+**★★** : ***Plot twist***  
+**🌧** : Ça va pleurer  
+**☀** : Ça va rire  
+**⎇** : *Hors du récit*  
 
 ## Part 1 : A Matter of Emotions // Une Histoire d'Émotions
 
-### Now is the time // Quand il faut y aller
+<table>
+<tr>
+<th>Numéro</th>
+<th>Flags</th>
+<th>Titre anglais</th>
+<th>Titre français</th>
+</tr>
+<tr>
+<td>1.</td>
+<td></td>
+<td>Now is the time</td>
+<td>Quand il faut y aller</td>
+</tr>
 
-### Nate & Andy
+<tr>
+<td>2.</td>
+<td></td>
+<td>Nate & Andy</td>
+<td>Nate & Andy</td>
+</tr>
 
-### Echo
+<tr>
+<td>3.</td>
+<td><strong>★</strong></td>
+<td><strong>Echo</strong></td>
+<td><strong>Echo</strong></td>
+</tr>
 
-### Feelings are tough, man // Énigme de sentiments
+<tr>
+<td>4.</td>
+<td><strong>★ 🌧</strong></td>
+<td><strong>Feelings are tough, man</strong></td>
+<td><strong>Énigme de sentiments</strong></td>
+</tr>
 
-### Odd circumstances // Choix de perspectives
+<tr>
+<td>5.</td>
+<td><strong>☀</strong></td>
+<td>Odd circumstances</td>
+<td>Choix de perspectives</td>
+</tr>
 
-### The little voice // La petite voix
+<tr>
+<td><strong>6.</strong></td>
+<td><strong>★★ 🌧</strong></td>
+<td><strong><em>The little voice</em></strong></td>
+<td><strong><em>La petite voix</em></strong></td>
+</tr>
 
-### Well that's unusual // Ingéniosité
+<tr>
+<td>7.</td>
+<td><strong>☀</strong></td>
+<td>Well that's unusual</td>
+<td>Ingéniosité</td>
+</tr>
 
-### Guessing game // Prendre ses marques
+<tr>
+<td>8.</td>
+<td></td>
+<td>Guessing game</td>
+<td>Prendre ses marques</td>
+</tr>
 
-### Crossing the bridge // Le grand voyage
+<tr>
+<td><strong>9.</strong></td>
+<td><strong>★★ 🌧</strong></td>
+<td><strong><em>Crossing the bridge</em></strong></td>
+<td><strong><em>Le grand voyage</em></strong></td>
+</tr>
+</table>
 
 ## Part 2 : Wonders of the Synthesis // Merveilles de la Synthèse
 
-### In loving memory // La soirée d'adieu
+<table>
+<tr>
+<th>Numéro</th>
+<th>Flags</th>
+<th>Titre anglais</th>
+<th>Titre français</th>
+</tr>
+<tr>
+<td>10.</td>
+<td><strong>🌧 ☀<strong></td>
+<td>In loving memory</td>
+<td>La soirée d'adieu</td>
+</tr>
 
-### You mean... everything ? // Implications complexes
+<tr>
+<td>11.</td>
+<td><strong>☀</strong></td>
+<td>You mean... everything ?</td>
+<td>Implications complexes</td>
+</tr>
 
-### It only takes two // La troisième roue
+<tr>
+<td>12.</td>
+<td><strong>★</strong></td>
+<td><strong>It only takes two</strong></td>
+<td><strong>La troisième roue</strong></td>
+</tr>
 
-### The short // Le court-métrage
+<tr><td>13.</td>
+<td></td>
+<td>The short</td>
+<td>Le court-métrage</td>
+</tr>
 
-### Dreamback // Machine arrière
+<tr>
+<td><strong>14.</strong></td>
+<td><strong>★★</strong></td>
+<td><strong><em>Let's dream back</em></strong></td>
+<td><strong><em>Machine arrière</em></strong></td>
+</tr>
 
-### Neridium (chapitre hors timeline)
+<tr>
+<td><em>15.</em></td>
+<td><strong>⎇</strong></td>
+<td><em>Neridium</em></td>
+<td><em>Neridium</em></td>
+</tr>
 
-### For each other // L'un pour l'autre
+<tr>
+<td>16.</td>
+<td><strong>★ 🌧</strong></td>
+<td>For each other</td>
+<td>L'un pour l'autre</td>
+</tr>
+</table>
 
 ## Part 3 : The Lost Souls // Les âmes perdues
 
-### Everything is fine // Péter la forme
+<table>
+<tr>
+<th>Numéro</th>
+<th>Flags</th>
+<th>Titre anglais</th>
+<th>Titre français</th>
+</tr>
+<tr>
+<td>17.</td>
+<td><strong>☀</strong></td>
+<td>Everything is fine</td>
+<td>Péter la forme</td>
+</tr>
 
-### The things you notice // La vérité en face
+<tr>
+<td>18.</td>
+<td><strong>★</strong>
+<td><strong>The things you notice</strong></td>
+<td><strong>La vérité en face</strong></td>
+</tr>
 
-### Jammed // Brouillé
+<tr>
+<td><strong>19.</strong></td>
+<td><strong>★★ 🌧</strong></td>
+<td><strong><em>Jammed</em></strong></td>
+<td><strong><em>Brouillé</em></strong></td>
+</tr>
 
-### If you can hear me // Si tu peux m'entendre
+<tr>
+<td>20.</td>
+<td><strong>★ 🌧</strong></td>
+<td><strong>If you can hear me</strong></td>
+<td><strong>Si tu peux m'entendre</strong></td>
+</tr>
 
-### Something priceless // Richesse inégalée
+<tr>
+<td>21.</td>
+<td><strong>🌧</strong></td>
+<td>Something priceless</td>
+<td>Richesse inégalée</td>
+</tr>
+</table>
 
-## Epilogue
+### Epilogue
 
-### The Answer // La Réponse
+<table>
+<tr>
+<th>Numéro</th>
+<th>Flags</th>
+<th>Titre anglais</th>
+<th>Titre français</th>
+</tr>
+<tr>
+<td>22.</td>
+<td><strong>★ 🌧</strong></td>
+<td><strong>The Answer</strong></td>
+<td><strong>La Réponse</strong></td>
+</tr>
+</table>

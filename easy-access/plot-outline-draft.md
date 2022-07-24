@@ -19,8 +19,8 @@
 		- [You mean... everything ? // Implications complexes](#you-mean-everything---implications-complexes)
 		- [It only takes two // La troisième roue](#it-only-takes-two--la-troisième-roue)
 		- [The short // Le court-métrage](#the-short--le-court-métrage)
-		- [Dreamback // Machine arrière](#dreamback--machine-arrière)
-		- [Neridium (chapitre hors timeline)](#neridium-chapitre-hors-timeline)
+		- [Let's dream back // Machine arrière](#lets-dream-back--machine-arrière)
+		- [*Neridium **[chapitre hors récit]***](#neridium-chapitre-hors-récit)
 		- [For each other // L'un pour l'autre](#for-each-other--lun-pour-lautre)
 	- [Part 3 : The Lost Souls // Les âmes perdues](#part-3--the-lost-souls--les-âmes-perdues)
 		- [Everything is fine // Péter la forme](#everything-is-fine--péter-la-forme)
@@ -73,9 +73,9 @@ Retour au présent (chapitre 1). Ça y est, Andy commence à parler à Nate de t
 
 ### The short // Le court-métrage
 
-### Dreamback // Machine arrière
+### Let's dream back // Machine arrière
 
-### Neridium (chapitre hors timeline)
+### *Neridium **[chapitre hors récit]***
 
 ### For each other // L'un pour l'autre
 
