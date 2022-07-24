@@ -2,11 +2,11 @@
 
 Légende des flags :
 
-**★** : **Moment important**  
-**★★** : ***Plot twist***  
-**🌧** : Ça va pleurer  
-**☀** : Ça va rire  
-**⎇** : *Hors du récit*  
+**★** : **Événement**  
+**★★** : ***Rebondissement***  
+**🌧** : Vous allez chialer  
+**☀** : Vous allez rigoler  
+**⎇** : *Éloignement temporaire du fil de l'intrigue*  
 
 ## Part 1 : A Matter of Emotions // Une Histoire d'Émotions
 
