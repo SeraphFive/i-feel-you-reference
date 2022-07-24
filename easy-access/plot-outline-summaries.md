@@ -2,7 +2,7 @@
 
 Légende des flags :
 
-**★** : **Événement**  
+**★** : **Moment important**  
 **★★** : ***Rebondissement***  
 **🌧** : Vous allez chialer  
 **☀** : Vous allez rigoler  
