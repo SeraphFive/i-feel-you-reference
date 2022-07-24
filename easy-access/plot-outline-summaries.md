@@ -124,7 +124,7 @@ Légende des flags :
 <td><strong>★</strong></td>
 <td><strong>It only takes two</strong></td>
 <td><strong>La troisième roue</strong></td>
-<td>N'arrivant plus à éviter la confrontation, Nate et Andy doivent gérer une situation aussi absurde que critique.</td>
+<td>N'arrivant plus à éviter une confrontation délicate, Nate et Andy doivent gérer une situation aussi absurde que critique face à une personne très importante.</td>
 </tr>
 
 <tr><td>13.</td>
