@@ -32,7 +32,7 @@ Légende des flags :
 <td></td>
 <td>Nate & Andy</td>
 <td>Nate & Andy</td>
-<td>Dix mois auparavant, se déroule d'un côté la vie d'Andy, jeune garçon de 20 ans à la vie éprouvante; et d'un autre côté celle de Nate, étudiant de 21 ans traversant les meilleures années de sa vie. Toutefois, chacun se bat contre ses émotions, débordantes pour l'un et énigmatiques pour l'autre.</td>
+<td>Dix mois auparavant, se déroule d'un côté la vie d'Andy, jeune garçon de 20 ans au quotidien éprouvant; et d'un autre côté celle de Nate, étudiant de 21 ans traversant les meilleures années de sa vie. Toutefois, chacun se bat contre ses émotions, débordantes pour l'un et énigmatiques pour l'autre.</td>
 </tr>
 
 <tr>
