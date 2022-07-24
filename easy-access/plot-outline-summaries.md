@@ -175,13 +175,15 @@ Légende des flags :
 <td><strong>☀</strong></td>
 <td>Everything is fine</td>
 <td>Péter la forme</td>
+<td>Plusieurs mois se sont écoulés, Nate et Andy s'accoutument au fonctionnement de leur Synthèse. Pendant ce temps, Andy a une idée derrière la tête.</td>
 </tr>
 
 <tr>
 <td>18.</td>
-<td><strong>★</strong>
+<td><strong>★ 🌧</strong>
 <td><strong>The things you notice</strong></td>
 <td><strong>La vérité en face</strong></td>
+<td>Face à la détresse d'Helena, Nate tente de lui apporter du réconfort avec l'aide d'un Andy peut-être trop impliqué.</td>
 </tr>
 
 <tr>
@@ -189,6 +191,7 @@ Légende des flags :
 <td><strong>★★ 🌧</strong></td>
 <td><strong><em>Jammed</em></strong></td>
 <td><strong><em>Brouillé</em></strong></td>
+<td>Une avancée conséquente apporte des résultats qui mettent à l'épreuve le lien entre les deux âmes.</td>
 </tr>
 
 <tr>
@@ -196,6 +199,7 @@ Légende des flags :
 <td><strong>★ 🌧</strong></td>
 <td><strong>If you can hear me</strong></td>
 <td><strong>Si tu peux m'entendre</strong></td>
+<td>Nate affronte son pire cauchemar dans un élan de désespoir.</td>
 </tr>
 
 <tr>
@@ -203,6 +207,7 @@ Légende des flags :
 <td><strong>🌧</strong></td>
 <td>Something priceless</td>
 <td>Richesse inégalée</td>
+<td>Tandis que le duo s'efforce de voir la stabilité au milieu du chaos, Helena prend un risque pour démontrer une théorie.</td>
 </tr>
 </table>
 
@@ -222,5 +227,6 @@ Légende des flags :
 <td><strong>★ 🌧</strong></td>
 <td><strong>The Answer</strong></td>
 <td><strong>La Réponse</strong></td>
+<td>Le soir du Nouvel An, Nate et Andy franchissent un cap.</td>
 </tr>
 </table>
