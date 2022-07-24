@@ -155,7 +155,7 @@ Légende des flags :
 <td><strong>★ 🌧</strong></td>
 <td>For each other</td>
 <td>L'un pour l'autre</td>
-<td>Nate et Andy assimilent tant bien que mal la vérité sur leur lien, mais certaines choses ne leur posent aucun doute.</td>
+<td>Nate et Andy assimilent tant bien que mal la vérité sur leur lien, mais certaines choses ne leur posent désormais plus aucun doute.</td>
 </tr>
 </table>
 
