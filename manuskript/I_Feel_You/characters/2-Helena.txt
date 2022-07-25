@@ -1,5 +1,0 @@
-Name:                Helena
-ID:                  2
-Importance:          1
-POV:                 True
-Color:               #d29c2f

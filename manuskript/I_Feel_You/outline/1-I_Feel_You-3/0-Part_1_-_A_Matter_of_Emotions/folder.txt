@@ -1,9 +1,0 @@
-title:          Part 1 : A Matter of Emotions
-ID:             9
-type:           folder
-summarySentence:The meeting of two souls and their singular emotions
-summaryFull:    Nate & Andy, two young adults struggling with their emotions, form an unexpected bond setting them on a soul-changing adventure.
-label:          5
-compile:        2
-
-

@@ -1,5 +1,0 @@
-Name:                Lynn
-ID:                  3
-Importance:          1
-POV:                 True
-Color:               #d6b4e2
