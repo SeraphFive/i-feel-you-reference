@@ -13,10 +13,7 @@
 	<th>Âge</th><td>20</td>
 </tr>
 <tr>
-	<th>Orientation</th><td>Bisexuel</td>
-</tr>
-<tr>
-	<th>Attraction</th><td>Demiromantique demisexuel</td>
+	<th>Attraction</th><td>Bi/demiromantique demisexuel</td>
 </tr>
 <tr>
 	<th>Espèce</th><td>Humain / Synth-Feeler</td>

@@ -13,10 +13,7 @@
 	<th>Âge</th><td>21</td>
 </tr>
 <tr>
-	<th>Orientation</th><td>Pansexuel</td>
-</tr>
-<tr>
-	<th>Attraction</th><td>Romantique asexuel</td>
+	<th>Attraction</th><td>Panromantique asexuel</td>
 </tr>
 <tr>
 	<th>Espèce</th><td>Humain / Synth-Catalyst</td>

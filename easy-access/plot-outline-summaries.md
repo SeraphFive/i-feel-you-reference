@@ -207,7 +207,7 @@ Légende des flags :
 <td><strong>🌧</strong></td>
 <td>Something priceless</td>
 <td>Richesse inégalée</td>
-<td>Tandis que le duo s'efforce de voir la stabilité au milieu du chaos, Helena prend un risque pour démontrer une théorie<td>
+<td>Tandis que le duo s'efforce de voir la stabilité au milieu du chaos, Helena prend un risque pour démontrer une théorie.<td>
 </tr>
 </table>
 
@@ -227,6 +227,6 @@ Légende des flags :
 <td><strong>★ 🌧</strong></td>
 <td><strong>The Answer</strong></td>
 <td><strong>La Réponse</strong></td>
-<td>Le soir du Nouvel An, deux ans après la Synthèse, Nate et Andy franchissent un cap main dans la main.</td>
+<td>Au soir du Nouvel An, deux ans après la Synthèse, Nate et Andy franchissent un cap main dans la main.</td>
 </tr>
 </table>
