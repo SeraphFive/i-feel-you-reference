@@ -57,7 +57,7 @@
 	<th>Nez</th><td>Retroussé</td>
 </tr>
 <tr>
-	<th>Bouche</th><td>Lèvres oyennement épaisses/pulpeuses, un peu dessinées. Fermée au repos.</td>
+	<th>Bouche</th><td>Lèvres moyennement épaisses/pulpeuses, un peu dessinées. Fermée au repos.</td>
 </tr>
 <tr>
 	<th>Sourire</th><td>Timide, davantage du côté gauche, lèvres fermées, yeux plus détendus.</td>
