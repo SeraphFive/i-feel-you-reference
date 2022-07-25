@@ -40,7 +40,7 @@ Légende des flags :
 <td><strong>★</strong></td>
 <td><strong>Echo</strong></td>
 <td><strong>Echo</strong></td>
-<td>Andy recontre un jour, par l'intermédiaire de sa meilleure amie Helena, un garçon présent sur les réseaux sociaux sous le pseudonyme de "Echo". D'abord impressionné par son talent artistique, Andy va très rapidement sympathiser avec lui, et développer un lien singulier. Les émotions d'Andy ne lui facilitent pas la vie mais il a une motivation : il décèle des émotions différentes chez lui aussi.</td>
+<td>Andy recontre un jour, par l'intermédiaire de sa meilleure amie Helena, un garçon présent sur les réseaux sociaux sous le pseudonyme de "Echo". D'abord impressionné par son talent artistique, Andy va très rapidement sympathiser avec lui, et développer un lien singulier. Les émotions d'Andy ne lui facilitent pas la vie mais il a une motivation : celles qu'il décèle chez Echo lui semblent tout aussi différentes.</td>
 </tr>
 
 <tr>
