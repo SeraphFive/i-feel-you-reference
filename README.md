@@ -23,7 +23,7 @@ Tout sera communiqué en temps voulu.
 
 Les formats supportés seront les suivants :
 
-- HTML : lecture dans un navigateur, facile d'accès mais pauvre en fonctionnalités (ex : pagnination)
+- HTML : lecture dans un navigateur, facile d'accès mais pauvre en fonctionnalités (ex : pagination)
 - ePub : format de livre électronique, utilisable depuis une application de lecture sur ordinateur, smartphone ou tablette, ou depuis une liseuse de toute marque
 
 Les formats qui seront **peut-être** envisagés sont :
@@ -35,7 +35,7 @@ Les formats qui ne seront **PAS** supportés sont :
 
 - Sites de fan-fiction (FF.net, Wattpad) : faire du web est littéralement un versant entier de mon métier, donc si je peux me permettre de ne pas confier mon travail à une plateforme tierce et mieux contrôler mon contenu, c'est volontiers
 - Sites de gestion de contenu créatif (Toyhouse) : j'utiliserai potentiellement Toyhouse dans certains cas exceptionnels, comme je l'ai fait pour le concept de la scène finale, mais ce ne sera jamais lié au projet principal pour les mêmes raisons que le point précédent
-- Texte brut : trop peu de fonctionnalités, sur un bouquin ça ferait très lourd à lire et naviguer. Et, ironiquement, c'est bien moins supporté par défaut sur appareils mobiles
+- Texte brut : trop peu de fonctionnalités, pour un bouquin ça ferait très lourd à lire et naviguer. Et, ironiquement, c'est bien moins supporté par défaut sur appareils mobiles
 
 La publication se fera sur Internet pour le format HTML (je l'hébergerai probablement moi-même vu que j'ai le matériel) et par envoi/dépôt périodique pour les formats de fichiers (ePub, PDF) via des outils qui restent à déterminer.
 
