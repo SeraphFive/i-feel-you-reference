@@ -1,5 +1,7 @@
 Idée:                #ffff00
 Note:                #00ff00
 Chapitre:            #0000ff
-Scène:               #ff0000
-Recherche:           #00ffff
+Scène:               #7800b4
+Partie:              #00ffff
+Français:            #ff0004
+Anglais:             #2fff00

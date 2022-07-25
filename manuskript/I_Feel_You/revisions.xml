@@ -1,2 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<outlineItem title="Root" ID="0" type="folder" compile="2" lastPath=""/>
+<outlineItem title="Root" ID="0" type="folder" compile="2" lastPath="">
+  <outlineItem title="I Feel You" ID="1" type="folder" summarySentence="The meeting of two souls and their singular emotions" summaryFull="Nate &amp; Andy, two young adults struggling with their emotions, form an unexpected bond setting them on a soul-changing adventure." label="7" compile="2" lastPath="outline/0-I_Feel_You-1">
+    <outlineItem title="Part 1 : A Matter of Emotions" ID="2" type="folder" summarySentence="The meeting of two souls and their singular emotions" summaryFull="Nate &amp; Andy, two young adults struggling with their emotions, form an unexpected bond setting them on a soul-changing adventure." label="5" compile="2" lastPath="outline/0-I_Feel_You-1/0-Part_1_-_A_Matter_of_Emotions">
+      <outlineItem title="New" ID="5" type="md" compile="2" lastPath="outline/0-I_Feel_You-1/0-Part_1_-_A_Matter_of_Emotions/0-New.md"/>
+    </outlineItem>
+    <outlineItem title="Part 2 : Wonders of the Synthesis" ID="4" type="folder" summarySentence="The quest for answers about a unique bond" label="5" compile="2" lastPath="outline/0-I_Feel_You-1/1-Part_2_-_Wonders_of_the_Synthesis">
+      <outlineItem title="New" ID="6" type="md" compile="2" lastPath="outline/0-I_Feel_You-1/1-Part_2_-_Wonders_of_the_Synthesis/0-New.md"/>
+    </outlineItem>
+  </outlineItem>
+  <outlineItem title="I Feel You" ID="3" type="folder" label="6" compile="2" lastPath="outline/1-I_Feel_You-3">
+    <outlineItem title="Part 1 : A Matter of Emotions" ID="9" type="folder" summarySentence="The meeting of two souls and their singular emotions" summaryFull="Nate &amp; Andy, two young adults struggling with their emotions, form an unexpected bond setting them on a soul-changing adventure." label="5" compile="2" lastPath="outline/1-I_Feel_You-3/0-Part_1_-_A_Matter_of_Emotions">
+      <outlineItem title="New" ID="10" type="md" compile="2" lastPath="outline/1-I_Feel_You-3/0-Part_1_-_A_Matter_of_Emotions/0-New.md"/>
+    </outlineItem>
+    <outlineItem title="Part 2 : Wonders of the Synthesis" ID="7" type="folder" summarySentence="The quest for answers about a unique bond" label="5" compile="2" lastPath="outline/1-I_Feel_You-3/1-Part_2_-_Wonders_of_the_Synthesis">
+      <outlineItem title="New" ID="8" type="md" compile="2" lastPath="outline/1-I_Feel_You-3/1-Part_2_-_Wonders_of_the_Synthesis/0-New.md"/>
+    </outlineItem>
+  </outlineItem>
+</outlineItem>

@@ -159,7 +159,7 @@ Légende des flags :
 </tr>
 </table>
 
-## Part 3 : The Lost Souls // Les âmes perdues
+## Part 3 : The Lost Souls // Les Âmes Perdues
 
 <table>
 <tr>
