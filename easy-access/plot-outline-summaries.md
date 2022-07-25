@@ -4,8 +4,8 @@ Légende des flags :
 
 **★** : **Moment important**  
 **★★** : ***Rebondissement***  
-**🌧** : Vous allez chialer  
-**☀** : Vous allez rigoler  
+**🌧** : Émotions fortes, mouchoirs recommandés  
+**☀** : De quoi sourire, se détendre et rire un peu  
 **⎇** : *Éloignement temporaire du fil de l'intrigue*  
 
 ## Part 1 : A Matter of Emotions // Une Histoire d'Émotions
