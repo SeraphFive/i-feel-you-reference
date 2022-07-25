@@ -72,7 +72,7 @@ Légende des flags :
 <td><strong>☀</strong></td>
 <td>Well that's unusual</td>
 <td>Ingéniosité</td>
-<td>La confusion est de mise, Andy n'étant plus dans son corps et Nate entendant son ami parler dans sa tête. Mais pas le temps de tergiverser, il faut trouver une solution et réanimer Andy dont le corps pourrait être découvert à tout moment par l'un de leurs amis.</td>
+<td>La confusion est de mise, Andy n'étant plus dans son corps et Nate entendant son ami parler dans sa tête. Mais pas le temps de tergiverser, il faut trouver une solution et réanimer Andy dont le corps pourrait être découvert à tout moment par l'un de leurs amis et créer la panique.</td>
 </tr>
 
 <tr>
@@ -80,7 +80,7 @@ Légende des flags :
 <td></td>
 <td>Guessing game</td>
 <td>Prendre ses marques</td>
-<td>Pendant que le corps d'Andy est en observation à l'hôpital entre des mains professionnelles, le duo en profite pour explorer leurs capacités aussi invraisemblables que puissantes. Mais alors qu'ils réalisent que cette "fusion" est plus profonde qu'ils l'imaginaient, la situation se complique.</td>
+<td>Pendant que le corps inconscient d'Andy est en observation à l'hôpital, le duo en profite pour explorer leurs capacités aussi invraisemblables que fascinantes. Mais alors qu'ils réalisent que cette "fusion" est plus profonde qu'ils l'imaginaient, la situation se complique brutalement.</td>
 </tr>
 
 <tr>
@@ -108,7 +108,7 @@ Légende des flags :
 <td><strong>🌧 ☀<strong></td>
 <td>In loving memory</td>
 <td>La soirée d'adieux</td>
-<td>S'habituant peu à peu à leur association inattendue, Nate et Andy découvrent l'aspect le plus significatif de leur fusion lors d'un événement douloureux.</td>
+<td>S'habituant peu à peu à leur association inattendue, Nate et Andy découvrent l'aspect le plus significatif de leur fusion lors d'un événement douloureux, pour eux comme pour leurs amis.</td>
 </tr>
 
 <tr>
