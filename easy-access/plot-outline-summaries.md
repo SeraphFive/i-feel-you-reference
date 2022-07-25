@@ -47,7 +47,7 @@ Légende des flags :
 <td>4.</td>
 <td><strong>★ 🌧</strong></td>
 <td><strong>Feelings are tough, man</strong></td>
-<td><strong>Énigme de sentiments</strong></td>
+<td><strong>L'énigme des sentiments</strong></td>
 <td>Six mois se sont écoulés, Andy et Nate vivent une amitié sincère. Mais Andy, submergé par ses uniques émotions et se pensant amoureux, est toujours aussi intrigué par l'énergie dégagée par Nate. Il doit toutefois affronter de mauvaises nouvelles...</td>
 </tr>
 
@@ -107,7 +107,7 @@ Légende des flags :
 <td>10.</td>
 <td><strong>🌧 ☀<strong></td>
 <td>In loving memory</td>
-<td>La soirée d'adieu</td>
+<td>La soirée d'adieux</td>
 <td>S'habituant peu à peu à leur association inattendue, Nate et Andy découvrent l'aspect le plus significatif de leur fusion lors d'un événement douloureux.</td>
 </tr>
 
@@ -116,7 +116,7 @@ Légende des flags :
 <td><strong>☀</strong></td>
 <td>You mean... everything ?</td>
 <td>Implications complexes</td>
-<td>Déterminés à trouver une explication à la Synthèse, le duo tente de savoir où chercher des réponses mais la vie agitée de Nate ne les aide pas vraiment.</td>
+<td>Déterminés à trouver une explication à la Synthèse, le duo tente de savoir où chercher des réponses mais la vie active et agitée de Nate ne les aide pas vraiment.</td>
 </tr>
 
 <tr>
@@ -124,7 +124,7 @@ Légende des flags :
 <td><strong>★</strong></td>
 <td><strong>It only takes two</strong></td>
 <td><strong>La troisième roue</strong></td>
-<td>N'arrivant plus à éviter une confrontation délicate, Nate et Andy doivent gérer une situation aussi absurde que critique face à une personne très importante.</td>
+<td>N'arrivant plus à repousser une confrontation délicate face à une personne très importante, Nate et Andy sont obligés de gérer une situation aussi absurde que critique.</td>
 </tr>
 
 <tr><td>13.</td>
@@ -139,7 +139,7 @@ Légende des flags :
 <td><strong>★★</strong></td>
 <td><strong><em>Let's dream back</em></strong></td>
 <td><strong><em>Machine arrière</em></strong></td>
-<td>Le duo s'engage dans une rétrospective riche en réponses, mais également en questions.</td>
+<td>Convaincu que les explications à la Synthèse étaient sous leurs yeux tout au long de leur vie, le duo s'engage dans une rétrospective riche en réponses, mais également en questions.</td>
 </tr>
 
 <tr>
@@ -147,7 +147,7 @@ Légende des flags :
 <td><strong>⎇</strong></td>
 <td><em>Neridium</em></td>
 <td><em>Neridium</em></td>
-<td>Bien plus sérieuse qu'elle n'en avait l'air, la Synthèse délivre ses secrets.</td>
+<td>Aux origines bien plus profondes qu'il n'y paraissait, la Synthèse délivre ses secrets au lecteur.</td>
 </tr>
 
 <tr>
@@ -155,7 +155,7 @@ Légende des flags :
 <td><strong>★ 🌧</strong></td>
 <td>For each other</td>
 <td>L'un pour l'autre</td>
-<td>Nate et Andy assimilent tant bien que mal la vérité sur leur lien, mais certaines choses ne leur posent désormais plus aucun doute.</td>
+<td>Nate et Andy assimilent tant bien que mal la vérité sur leur lien, tandis que certaines choses ne leur posent désormais plus aucun doute.</td>
 </tr>
 </table>
 
@@ -175,7 +175,7 @@ Légende des flags :
 <td><strong>☀</strong></td>
 <td>Everything is fine</td>
 <td>Péter la forme</td>
-<td>Plusieurs mois se sont écoulés, Nate et Andy s'accoutument au fonctionnement de leur Synthèse. Pendant ce temps, Andy a une idée derrière la tête.</td>
+<td>Plusieurs mois se sont écoulés, Nate et Andy s'accoutument au fonctionnement de leur Synthèse désormais plus clair. Pendant ce temps, Andy a une idée derrière la tête.</td>
 </tr>
 
 <tr>
@@ -191,7 +191,7 @@ Légende des flags :
 <td><strong>★★ 🌧</strong></td>
 <td><strong><em>Jammed</em></strong></td>
 <td><strong><em>Brouillé</em></strong></td>
-<td>Une avancée conséquente apporte des résultats qui mettent à l'épreuve le lien entre les deux âmes.</td>
+<td>Une avancée conséquente apporte des résultats qui mettent rudement à l'épreuve le lien entre les deux âmes.</td>
 </tr>
 
 <tr>
@@ -199,7 +199,7 @@ Légende des flags :
 <td><strong>★ 🌧</strong></td>
 <td><strong>If you can hear me</strong></td>
 <td><strong>Si tu peux m'entendre</strong></td>
-<td>Nate affronte son pire cauchemar dans un élan de désespoir.</td>
+<td>Nate affronte son pire cauchemar dans un élan de pur désespoir.</td>
 </tr>
 
 <tr>
@@ -207,7 +207,7 @@ Légende des flags :
 <td><strong>🌧</strong></td>
 <td>Something priceless</td>
 <td>Richesse inégalée</td>
-<td>Tandis que le duo s'efforce de voir la stabilité au milieu du chaos, Helena prend un risque pour démontrer une théorie.</td>
+<td>Tandis que le duo s'efforce de voir la stabilité au milieu du chaos, Helena prend un risque pour démontrer une théorie<td>
 </tr>
 </table>
 
@@ -227,6 +227,6 @@ Légende des flags :
 <td><strong>★ 🌧</strong></td>
 <td><strong>The Answer</strong></td>
 <td><strong>La Réponse</strong></td>
-<td>Le soir du Nouvel An, Nate et Andy franchissent un cap.</td>
+<td>Le soir du Nouvel An, deux ans après la Synthèse, Nate et Andy franchissent un cap main dans la main.</td>
 </tr>
 </table>
