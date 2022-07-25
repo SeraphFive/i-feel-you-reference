@@ -10,6 +10,8 @@ Ce dépôt sert de zone centrale pour permettre de lire les informations que je 
 - [Plan des chapitres](https://github.com/SeraphFive/i-feel-you-reference/blob/main/easy-access/plot-outline-summaries.md)
 - [Fiches de personnages](https://github.com/SeraphFive/i-feel-you-reference/blob/main/easy-access/characters)
 
+***Note :*** La mention "W.I.P" (pour "Work In Progress") désigne du contenu incomplet mais voué à être rédigé. Merci pour votre patience !
+
 ## Publication
 
 ### Dates
