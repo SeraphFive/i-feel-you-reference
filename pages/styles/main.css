@@ -1,0 +1,48 @@
+:root {
+    --font-default: Helvetica, sans-serif;
+    --bg-color: #262b31;
+    --bg-color-content: #1e2227;
+    --bg-color-appendix: #16191d;
+    --bs-body-bg: var(--bg-color) !important;
+    --bs-body-color: white !important;
+}
+
+html {
+    overflow-x: hidden;
+    background: var(--bg-color) !important;
+}
+
+h1 {
+    font-weight: bold !important;
+}
+
+body {
+    font-family: var(--font-default) !important;
+}
+
+#main {
+    width: 85%;
+    padding-top: 2%;
+}
+
+.appendix {
+    color: grey;
+    padding: 1rem 1rem;
+    display: flex;
+    justify-content: space-between;
+    background: var(--bg-color-appendix);
+    margin-bottom: 0;
+    border: 1px solid grey;
+    border-bottom: 1px solid #1d1d1d;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+#content {
+    background: var(--bg-color-content);
+    padding-top: 2rem;
+    border: 1px solid grey;
+    border-top: 0;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
