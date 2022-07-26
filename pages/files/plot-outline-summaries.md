@@ -38,7 +38,7 @@ Les accroches sont des brefs résumés des chapitres. Elles sont assez détaill�
 |13.||The short|Le court-métrage|Nate trouve une piste de potentielles réponses en fouillant dans ses souvenirs.|
 |**14.**|**★★**|***Let's dream back***|***Machine arrière***|Convaincu que les explications à la Synthèse étaient sous leurs yeux tout au long de leur vie, le duo s'engage dans une rétrospective riche en réponses, mais également en questions.|
 |*15.*|**⎇**|*Neridium*|*Neridium*|Aux origines bien plus profondes qu'il n'y paraissait, la Synthèse délivre ses secrets au lecteur.|
-|16.|**★ 🌧**|For each other|L'un pour l'autre|Nate et Andy assimilent tant bien que mal la vérité sur leur lien, tandis que certaines choses ne leur posent désormais plus aucun doute.|
+|16.|**★ 🌧**|For each other|L'un pour l'autre|Nate et Andy assimilent tant bien que mal la vérité sur leur lien, tandis que certaines choses ne leur posent désormais plus le moindre doute.|
 
 ## Part 3 : The Lost Souls // Les Âmes Perdues
 
