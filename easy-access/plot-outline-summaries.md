@@ -12,7 +12,7 @@ Légende des flags :
 
 Grâce aux flags vous pouvez mesurer l'importance d'un chapitre et son ambiance.
 
-Les accroches sont des brefs résumés des chapitres. Ils sont assez détaillés pour la partie 1 car servant de situation initiale, mais après elles deviennent volontairement vagues et concises pour ne pas spoiler.
+Les accroches sont des brefs résumés des chapitres. Elles sont assez détaillées pour la partie 1 car il s'agit de la situation initiale, mais dès le premier plot twist elles deviennent volontairement vagues et concises pour ne pas spoiler.
 
 ## Part 1 : A Matter of Emotions // Une Histoire d'Émotions
 
