@@ -88,10 +88,23 @@
             <div class="docdesc">Description test</div>
         </div>
         <div class="container-fluid" id="content">
+            <!-- <iframe src="https://github.com/SeraphFive/i-feel-you-reference/blob/main/pages/files/plot-outline-summaries.md"> -->
+            <iframe src="files/plot-outline-summaries.md">
+            </iframe>
         </div>
         <script>
-            const converter = new showdown.Converter();
-            $$("#content").innerHTML = converter.makeHtml(getTextFile('../README.md'));
+            const iframe = $$('#content iframe');
+            const iframeWin = iframe.contentWindow || iframe;
+            const iframeDoc = iframe.contentDocument || iframeWin.document;
+            iframeDoc.createElement('script').append(`
+            const zone = document.getElementById('readme');
+            zone.style.background = '#1e2227';
+            zone.style.position = 'absolute';
+            sone.style.top = '0';
+            zone.style.left = '0';
+            zone.style.width = '100%';
+            zone.style.zIndex = '999';
+            `);
         </script>
     </div>
     <style>
@@ -99,6 +112,15 @@
             opacity: 1;
         }
     </style>
+    <div style="position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: black; z-index: 999999;">
+        <style>
+            * {
+                overflow: hidden;
+                user-select: none;
+            }
+        </style>
+        <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); background: grey; border-radius: 3rem; padding: 10rem; text-align: center; text-decoration: none; font-size: 48pt;">En construction</div>
+    </div>
 </body>
 
 </html>
