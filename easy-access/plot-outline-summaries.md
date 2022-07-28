@@ -1,5 +1,7 @@
 # Plot outline // Plan du scénario
 
+## ❗ **Conseil : lisez ce document à l'horizontale si vous êtes sur appareil mobile** ❗
+
 Légende des flags :
 
 |Flag|Signification|
