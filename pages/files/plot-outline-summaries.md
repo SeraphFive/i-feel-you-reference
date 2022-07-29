@@ -49,7 +49,7 @@ Les accroches sont des brefs résumés des chapitres. Elles sont assez détaill�
 |17.|**☀**|Everything is fine|Péter la forme|Plusieurs mois se sont écoulés, Nate et Andy s'accoutument au fonctionnement de leur Synthèse désormais plus clair. Pendant ce temps, Andy a une idée derrière la tête.|
 |18.|**★ 🌧**|**The things you notice**|**La vérité en face**|Face à la détresse d'Helena, Nate tente de lui apporter du réconfort avec l'aide d'un Andy peut-être trop impliqué.|
 |**19.**|**★★ 🌧**|***Jammed***|***Brouillé***|Une avancée conséquente apporte des résultats qui mettent rudement à l'épreuve le lien entre les deux âmes.|
-|20.|**★★ 🌧**|**If you can hear me**|**Si tu peux m'entendre**|Nate affronte son pire cauchemar dans un élan de pur désespoir.|
+|20.|**★★ 🌧**|***If you can hear me***|***Si tu peux m'entendre***|Nate affronte son pire cauchemar dans un élan de pur désespoir.|
 |21.|**🌧**|Something priceless|Richesse inégalée|Tandis que le duo s'efforce de voir la stabilité au milieu du chaos, Helena prend un risque pour démontrer une théorie.|
 
 ### Epilogue
