@@ -27,7 +27,7 @@ Légende du statut :
 |**📝**|**Écriture**|Chapitre en cours d'écriture|
 |**…**|**Non démarré**|Chapitre en attente d'écriture|
 
-Le statut permet de donner une indication sur l'avancement de chaque chapitre. Une Parte est considérée comme prête à la publication lorsque tous ses chapitres sont terminés (✅). Avant publication, tout chapitre peut être modifié à tout moment peu importe son statut, y compris terminé.
+Le statut permet de donner une indication sur l'avancement de chaque chapitre. Une Partie est considérée comme prête à la publication lorsque tous ses chapitres sont terminés (✅). Avant publication, tout chapitre peut être modifié à tout moment peu importe son statut, y compris terminé.
 
 ---
 
