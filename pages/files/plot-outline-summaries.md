@@ -25,7 +25,7 @@ Légende du statut :
 |**💬**|**Bêta test**|Lecture et avis préliminaire|
 |**🔍**|**Relecture et correction**|Passage en revue de la V1 par un tiers expérimenté|
 |**📝**|**Écriture**|Chapitre en cours d'écriture|
-|**…**|**Non démarré**|CHapitre en attente d'écriture|
+|**…**|**Non démarré**|Chapitre en attente d'écriture|
 
 Le statut permet de donner une indication sur l'avancement de chaque chapitre. Une Parte est considérée comme prête à la publication lorsque tous ses chapitres sont terminés (✅). Avant publication, tout chapitre peut être modifié à tout moment peu importe son statut, y compris terminé.
 
