@@ -86,7 +86,7 @@ Après la publication de l'épilogue, et donc la fin du livre principal, deux co
 
 |Numéro|Statut|Temporalité|Titre anglais|Titre français|Accroche|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|R1.|…|Chapitres 4-5|**Thus spoke Helena**|**Les mots d'Helena**|Lors d'une rétrospection, Nate veut en savoir plus sur le contexte des paroles prononcées par Helena peu de temps avant le 15 décembre 2022 (en citation au début du chapitre 1). Ils partent en Réminiscence afin qu'Andy lui montre la période d'hésitation et de questionnement ayant précédé la Synthèse.|
+|R1.|…|Chapitres 4&#8209;5|**Thus spoke Helena**|**Les mots d'Helena**|Lors d'une rétrospection, Nate veut en savoir plus sur le contexte des paroles prononcées par Helena peu de temps avant le 15 décembre 2022 (en citation au début du chapitre 1). Ils partent en Réminiscence afin qu'Andy lui montre la période d'hésitation et de questionnement ayant précédé la Synthèse.|
 
 ## Animus
 
