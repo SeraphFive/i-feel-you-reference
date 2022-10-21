@@ -10,7 +10,7 @@ Légende des flags :
 |**★★**|***Rebondissement***|
 |**🌧**|Émotions fortes, mouchoirs recommandés|
 |**☀**|De quoi sourire, se détendre et rire un peu|
-|**⎇**|*Éloignement temporaire du fil de l'intrigue*|
+|**⎇**|*Épisode spécial (hors intrigue, crossover...)*|
 
 Grâce aux flags vous pouvez mesurer l'importance d'un chapitre et son ambiance.
 
@@ -73,3 +73,27 @@ Les accroches sont des brefs résumés des chapitres. Elles sont assez détaill�
 |Numéro|Statut|Flags|Titre anglais|Titre français|Accroche|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |21.|…|**★ 🌧**|**The Answer**|**La Réponse**|Au soir du Nouvel An, deux ans après la Synthèse, Nate et Andy franchissent un cap main dans la main.|
+
+---
+
+## **Collections bonus**
+
+Après la publication de l'épilogue, et donc la fin du livre principal, deux collections bonus seront également publiées. Chaque collection est construite autour d'une intrigue de fond, d'une idée de base ou d'un contexte. Elle est développée en tant qu'un ensemble de chapitres qui se suivent chronologiquement mais qui peuvent être lus indépendamment.
+
+## Les Réminiscences
+
+Au cours de leur nouvelle vie, Nate et Andy s'occupent occasionnellement en replongeant dans leurs souvenirs grâce à Réminiscence. Ces sessions révèlent de nouveaux aspects, événements et points de vue sur des événements qui se sont déroulés pendant l'intrigue principale tout comme dans le passé des personnages principaux.
+
+|Numéro|Temporalité|Flags|Titre anglais|Titre français|Accroche|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|R1.|…|Chapitres 4-5|**Thus spoke Helena**|**Les mots d'Helena**|Lors d'une rétrospection, Nate veut en savoir plus sur le contexte des paroles prononcées par Helena peu de temps avant le 15 décembre 2022 (en citation au début du chapitre 1). Ils partent en Réminiscence afin qu'Andy lui montre la période d'hésitation et de questionnement ayant précédé la Synthèse.|
+
+## Animus
+
+Faisant suite à l'épilogue, la collection Animus est une manière de rester connectés avec Nate et Andy, désormais confortablement ancrés dans leur nouvelle vie en tant que Synth, et de les suivre dans une nouvelle aventure fascinante.
+
+|Numéro|Statut|Flags|Titre anglais|Titre français|Accroche|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|A0.|…|**★★**|**The Other Ones**|**Les Autres**|Six mois après la Réponse, le duo vit tranquillement. Nate vit de sa passion ce qui l'amène même à voyager, offrant de géniales escapades au Synth et pour le plus grand plaisir d'Andy. C'est justement au fil des voyages et des rencontres qu'ils vont remarquer certains détails étranges, les menant à une supposition&nbsp;: et s'ils n'étaient pas le seul cas de Synthèse sur Terre ? Ils se donnent alors pour mission d'enquête.|
+|A1.|…|**★**|**A Shadow's Love**|**Amour d'une Ombre**|Les événements du chapitre 20 n'ont pas quitté l'esprit du duo, qui commence à se dire que ce qu'ils cherchent est peut-être plus près qu'ils l'imaginent.|
+|A2.|…|**⎇**|*The Mirror's Other Side*|*L'Autre Côté du Miroir*|En séjour à Londres, le duo en profite pour découvrir leur capitale. Un soir, ils croisent la route d'un couple de garçons qui attire tout particulièrement leur attention&nbsp;: un flux d'émotions fortes existe entre eux, et les couleurs semblent identiques à celles circulant entre Nate et Andy. (Crossover *I Feel You* x *Pretty Boy*)|
