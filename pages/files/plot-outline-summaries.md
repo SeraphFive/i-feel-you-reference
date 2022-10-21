@@ -76,13 +76,13 @@ Les accroches sont des brefs résumés des chapitres. Elles sont assez détaill�
 
 ---
 
-## **Collections bonus**
+## *Pour aller plus loin&nbsp;: Les collections bonus*
 
 Après la publication de l'épilogue, et donc la fin du livre principal, deux collections bonus seront également publiées. Chaque collection est construite autour d'une intrigue de fond, d'une idée de base ou d'un contexte. Elle est développée en tant qu'un ensemble de chapitres qui se suivent chronologiquement mais qui peuvent être lus indépendamment.
 
 ## Les Réminiscences
 
-Au cours de leur nouvelle vie, Nate et Andy s'occupent occasionnellement en replongeant dans leurs souvenirs grâce à Réminiscence. Ces sessions révèlent de nouveaux aspects, événements et points de vue sur des événements qui se sont déroulés pendant l'intrigue principale tout comme dans le passé des personnages principaux.
+> Au cours de leur nouvelle vie, Nate et Andy s'occupent occasionnellement en replongeant dans leurs souvenirs grâce à Réminiscence. Ces sessions révèlent de nouveaux aspects, événements et points de vue sur des événements qui se sont déroulés pendant l'intrigue principale tout comme dans le passé des personnages principaux.
 
 |Numéro|Temporalité|Flags|Titre anglais|Titre français|Accroche|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -90,7 +90,7 @@ Au cours de leur nouvelle vie, Nate et Andy s'occupent occasionnellement en repl
 
 ## Animus
 
-Faisant suite à l'épilogue, la collection Animus est une manière de rester connectés avec Nate et Andy, désormais confortablement ancrés dans leur nouvelle vie en tant que Synth, et de les suivre dans une nouvelle aventure fascinante.
+> Faisant suite à l'épilogue, la collection Animus est une manière de rester connectés avec Nate et Andy, désormais confortablement ancrés dans leur nouvelle vie en tant que Synth, et de les suivre dans une nouvelle aventure fascinante.
 
 |Numéro|Statut|Flags|Titre anglais|Titre français|Accroche|
 |:---:|:---:|:---:|:---:|:---:|:---:|
