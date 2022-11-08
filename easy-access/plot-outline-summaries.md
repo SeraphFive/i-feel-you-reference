@@ -44,13 +44,13 @@ Les accroches sont des brefs résumés des chapitres. Elles sont assez détaill�
 |**5.**|✅|**★★ 🌧**|***The little voice***|***La petite voix***|Retour au présent (voir chapitre 1). Andy se confie à Nate, lui-même en réalité intrigué depuis déjà plusieurs mois, sentant quelque chose de particulier s'émaner de son ami. Mais leur conversation va prendre une tournure inattendue.|
 |6.|💬|**☀**|Well that's unusual|Ingéniosité|La confusion est de mise, Andy n'étant plus dans son corps et Nate entendant son ami parler dans sa tête. Mais pas le temps de tergiverser, il faut trouver une solution et réanimer Andy dont le corps pourrait être découvert à tout moment par l'un de leurs amis et créer la panique.|
 |7.|💬||Guessing game|Prendre ses marques|Pendant que le corps inconscient d'Andy est en observation à l'hôpital, et pensant que la situation n'est que temporaire, le duo en profite pour explorer leurs capacités aussi invraisemblables que fascinantes. Ils réalisent cependant que cette "fusion" est plus compliquée à vivre qu'ils l'imaginaient face à leurs amis inquiets.|
-|**8.**|🔍|**★★ 🌧**|***Crossing the bridge***|***Le grand voyage***|Une complication brutale de la situation met le duo face à une épreuve difficile. Nate et Andy explorent leurs quelques dernières options et doivent redoubler d'efforts.|
+|**8.**|💬|**★★ 🌧**|***Crossing the bridge***|***Le grand voyage***|Une complication brutale de la situation met le duo face à une épreuve difficile. Nate et Andy explorent leurs quelques dernières options et doivent redoubler d'efforts.|
 
 ## Part 2 : Wonders of the Synthesis // Merveilles de la Synthèse
 
 |Numéro|Statut|Flags|Titre anglais|Titre français|Accroche|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|9.|…|**🌧 ☀**|In loving memory|La soirée d'adieux|S'habituant peu à peu à leur association inattendue, Nate et Andy découvrent l'aspect le plus significatif de leur fusion lors d'un événement douloureux, pour eux comme pour leurs amis.|
+|9.|📝|**🌧 ☀**|In loving memory|La soirée d'adieux|S'habituant peu à peu à leur association inattendue, Nate et Andy découvrent l'aspect le plus significatif de leur fusion lors d'un événement douloureux, pour eux comme pour leurs amis.|
 |10.|…|**☀**|You mean... everything ?|Implications complexes|Déterminés à trouver une explication à la Synthèse, le duo tente de savoir où chercher des réponses mais la vie active et agitée de Nate ne les aide pas vraiment.|
 |11.|…|**★**|**It only takes two**|**La troisième roue**|N'arrivant plus à repousser une confrontation délicate mais inévitable face à Lynn, les garçons sont obligés de gérer une situation aussi absurde que critique.|
 |12.|…||The short|Le court-métrage|Nate trouve une piste de potentielles réponses en fouillant dans ses souvenirs. Andy a une théorie similaire, mais des détails lui manquent et l'identité de la seule personne à pouvoir l'éclairer ne l'enchante pas.|
