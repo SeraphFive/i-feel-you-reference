@@ -90,10 +90,11 @@ Après la publication de l'épilogue, et donc la fin du livre principal, deux co
 
 ## Animus
 
-> Faisant suite à l'épilogue, la collection Animus est une manière de rester connectés avec Nate et Andy, désormais confortablement ancrés dans leur nouvelle vie en tant que Synth, et de les suivre dans une nouvelle aventure fascinante.
+> Faisant suite à l'épilogue, la collection Animus est une manière de rester connectés avec Nate et Andy, désormais confortablement ancrés dans leur vie en tant que Synth, et de les suivre dans une nouvelle aventure fascinante.
 
 |Numéro|Statut|Flags|Titre anglais|Titre français|Accroche|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|A0.|…|**★★**|**The Other Ones**|**Les Autres**|Six mois après la Réponse, le duo vit tranquillement. Nate vit de sa passion ce qui l'amène même à voyager, offrant de géniales escapades au Synth et pour le plus grand plaisir d'Andy. C'est justement au fil des voyages et des rencontres qu'ils vont remarquer certains détails étranges, les menant à une supposition&nbsp;: et s'ils n'étaient pas le seul cas de Synthèse sur Terre ? Ils se donnent alors pour mission d'enquêter.|
+|A0.|…|**★★**|**The Other Ones**|**Les Autres**|Six mois après la Réponse, le duo vit paisiblement. Nate vit de sa passion ce qui l'amène même à voyager, offrant de géniales escapades au Synth et pour le plus grand plaisir d'Andy. C'est justement au fil des voyages et des rencontres qu'ils vont remarquer certains détails étranges, les menant à une supposition&nbsp;: et s'ils n'étaient pas le seul cas de Synthèse sur Terre ? Ils se donnent alors pour mission d'enquêter.|
 |A1.|…|**★**|**A Shadow's Love**|**Amour d'une Ombre**|Les événements du chapitre 20 n'ont pas quitté l'esprit du duo, qui commence à se dire que ce qu'ils cherchent est peut-être plus près qu'ils l'imaginent.|
-|A2.|…|**⎇**|*The Mirror's Other Side*|*L'Autre Côté du Miroir*|En séjour à Londres, le duo en profite pour découvrir leur capitale. Un soir, ils croisent la route d'un couple de garçons qui attire tout particulièrement leur attention&nbsp;: un flux d'émotions fortes existe entre eux, et les couleurs semblent identiques à celles circulant entre Nate et Andy. (Crossover&nbsp;*I&nbsp;Feel&nbsp;You*&nbsp;x&nbsp;*Pretty&nbsp;Boy*)|
+|A2.|…|**⎇**|*The Mirror's Other Side*|*L'Autre Côté du Miroir*|En séjour à Londres, le duo en profite pour découvrir leur capitale. Un soir, ils croisent la route d'un couple de garçons qui attire tout particulièrement leur attention&nbsp;: un flux d'émotions fortes existe entre eux, et leur signature émotionnelle est identique à celle de Nate et Andy. (Crossover&nbsp;*I&nbsp;Feel&nbsp;You*&nbsp;x&nbsp;*Pretty&nbsp;Boy*)|
+|A3.|…||The Quietest Of Them All|La Plus Discrète de Tous|Lors d'un voyage entre amis, le duo remarque que l'un de leurs amis a un comportement étrange et inhabituel. Au fil des événements, Nate et Andy commencent à se dire que la Synthèse prend potentiellement des formes insoupçonnées.|
