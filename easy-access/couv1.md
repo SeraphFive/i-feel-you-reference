@@ -36,13 +36,13 @@ Au milieu de la route, en biais (la route semble aller vers un coin latéral arr
  * Nate&nbsp;: 
 	* Cou&nbsp;: choker noir + collier argenté avec un croissant de lune (également argenté) en pendentif
 	* Haut&nbsp;: T-shirt sans manches moulant couleur noir uni à col rond **+** courte veste style perfecto couleur blanc/blanc cassé, à demi enfilé (porté sous les épaules)
-	* Bras et mains&nbsp;: montre analogique en cuir noir à cadran rectangulaire doré sur le poignet droit, ruban vert noué au poignet gauche, bague classique argentée à liseret noir sur le majeur gauche
+	* Bras et mains&nbsp;: montre analogique en cuir noir à cadran rectangulaire doré sur le poignet droit, ruban vert (description détaillée : voir chapitre 5) noué au poignet gauche, bague classique argentée à liseret noir sur le majeur gauche
 	* Bas&nbsp;: jeans regular noirs grossièrement déchirés aux genoux (avec quelques fils encore en place), ceinture en cuir noir apparente serrée assez haut (au dessus de la taille) et couvrant le T-shirt, avec boucle or/orange léger en forme de soleil (cercle et rayons)
 	* Chaussures&nbsp;: boots style Doc Martens noires montantes à lacets gris et petit dessin blanc d'étoile filante le long de la cheville
  * Andy (<u>**note&nbsp;:** les couleurs n'importent quasiment pas, Andy étant un spectre de lumière dont la couleur dépend de ses émotions. Certaines couleurs sont mentionnées uniquement dans un souci de tons et de contraste. Voir sa page de personnage</u>)&nbsp;:
 	* Cou&nbsp;: collier en fil noir fin, avec pendentif en forme de soleil
 	* Haut&nbsp;: Pull inter-saison bleu, col épais mais pas montant **+** veste à capuche et lacets (ouverte)  gris foncé **+** veste style jeans (ouverte) blanche/blanc cassé
-	* Bras et mains&nbsp;: ruban bleu noué au poignet droit. **Important**&nbsp;: Le ruban est l'un des seuls éléments du spectre dont la couleur est fixe.
+	* Bras et mains&nbsp;: ruban bleu noué au poignet droit (description détaillée : voir chapitre 5). **Important**&nbsp;: Le ruban est l'un des seuls éléments du spectre dont la couleur est fixe.
 	* Bas&nbsp;: jeans slim avec ceinture apparente couvrant le pull, avec boucle apparente en forme de croissant de lune
 	* Chaussures&nbsp;: Converse basses avec un petit dessin d'étoile filante à l'intérieur du cercle contenant le logo
   
