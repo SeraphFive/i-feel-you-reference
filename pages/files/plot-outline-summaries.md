@@ -42,27 +42,27 @@ Les accroches sont des brefs résumés des chapitres. Elles sont assez détaill�
 |3.|✅|**★**|**Believe it or not...**|**Crois-le ou non...**|Grâce à Helena, Andy fait la connaissance d'un garçon présent sur les réseaux sociaux sous le pseudonyme de "Echo". Ressentant une affinité particulière, il va très rapidement sympathiser avec lui, et développer un lien singulier. Les émotions d'Andy ne lui facilitent pas la vie mais il a une motivation : celles qu'il décèle chez Echo lui semblent tout aussi différentes.|
 |4.|✅|**★ 🌧**|**Feelings are tough, man**|**L'énigme des sentiments**|Plusieurs mois se sont écoulés, Andy et Nate vivent une amitié sincère. Mais Andy est submergé par ses uniques émotions et se pense amoureux. Il doit toutefois affronter de très mauvaises nouvelles qui risquent de totalement changer la donne, et qui vont l'obliger à envisager de se confier à lui.|
 |**5.**|✅|**★★ 🌧**|***The little voice***|***La petite voix***|Retour au présent (voir chapitre 1). Andy se confie à Nate, lui-même en réalité intrigué depuis déjà plusieurs mois, sentant quelque chose de particulier s'émaner de son ami. Mais leur conversation va prendre une tournure inattendue.|
-|6.|💬|**☀**|Well that's unusual|Ingéniosité|La confusion est de mise, Andy n'étant plus dans son corps et Nate entendant son ami parler dans sa tête. Mais pas le temps de tergiverser, il faut trouver une solution et réanimer Andy dont le corps pourrait être découvert à tout moment par l'un de leurs amis et créer la panique.|
-|7.|💬||Guessing game|Prendre ses marques|Pendant que le corps inconscient d'Andy est en observation à l'hôpital, et pensant que la situation n'est que temporaire, le duo en profite pour explorer leurs capacités aussi invraisemblables que fascinantes. Ils réalisent cependant que cette "fusion" est plus compliquée à vivre qu'ils l'imaginaient face à leurs amis inquiets.|
-|**8.**|💬|**★★ 🌧**|***Crossing the bridge***|***Le grand voyage***|Une complication brutale de la situation met le duo face à une épreuve difficile. Nate et Andy explorent leurs quelques dernières options et doivent redoubler d'efforts.|
+|6.|✅|**☀**|Well that's unusual|Ingéniosité|La confusion est de mise, Andy n'étant plus dans son corps et Nate entendant son ami parler dans sa tête. Mais pas le temps de tergiverser, il faut trouver une solution et réanimer Andy dont le corps pourrait être découvert à tout moment par l'un de leurs amis et créer la panique.|
+|7.|✅||Guessing game|Prendre ses marques|Pendant que le corps inconscient d'Andy est en observation à l'hôpital, et pensant que la situation n'est que temporaire, le duo en profite pour explorer leurs capacités aussi invraisemblables que fascinantes. Ils réalisent cependant que cette "fusion" est plus compliquée à vivre qu'ils l'imaginaient face à leurs amis inquiets.|
+|**8.**|✅|**★★ 🌧**|***Crossing the bridge***|***Le grand voyage***|Une complication brutale de la situation met le duo face à une épreuve difficile. Nate et Andy explorent leurs quelques dernières options et doivent redoubler d'efforts.|
 
 ## Part 2 : Wonders of the Synthesis // Merveilles de la Synthèse
 
 |Numéro|Statut|Flags|Titre anglais|Titre français|Accroche|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|9.|📝|**🌧 ☀**|In loving memory|La soirée d'adieux|S'habituant peu à peu à leur association inattendue, Nate et Andy découvrent l'aspect le plus significatif de leur fusion lors d'un événement douloureux, pour eux comme pour leurs amis.|
-|10.|…|**☀**|You mean... everything ?|Implications complexes|Déterminés à trouver une explication à la Synthèse, le duo tente de savoir où chercher des réponses mais la vie active et agitée de Nate ne les aide pas vraiment.|
-|11.|…|**★**|**It only takes two**|**La troisième roue**|N'arrivant plus à repousser une confrontation délicate mais inévitable face à Lynn, les garçons sont obligés de gérer une situation aussi absurde que critique.|
-|12.|…||The short|Le court-métrage|Nate trouve une piste de potentielles réponses en fouillant dans ses souvenirs. Andy a une théorie similaire, mais des détails lui manquent et l'identité de la seule personne à pouvoir l'éclairer ne l'enchante pas.|
-|**13.**|…|**★★**|***Let's dream back***|***Machine arrière***|Nate et Andy pensent toucher au but, et doivent s'engager dans une rétrospective riche en réponses, révélant un tout autre sens à leurs vies respectives.|
-|*14.*|…|**⎇**|*Neridium*|*Neridium*|Aux origines bien plus profondes qu'il n'y paraissait, la Synthèse délivre ses secrets au lecteur.|
-|15.|…|**★ 🌧**|For each other|L'un pour l'autre|Nate et Andy assimilent tant bien que mal la vérité sur leur lien, tandis que certaines choses ne leur posent désormais plus le moindre doute. Au même moment, quelqu'un fait un retour inattendu.|
+|9.|✅|**🌧 ☀**|In loving memory|La soirée d'adieux|S'habituant peu à peu à leur association inattendue, Nate et Andy découvrent l'aspect le plus significatif de leur fusion lors d'un événement douloureux, pour eux comme pour leurs amis.|
+|10.|✅|**☀**|You mean... everything ?|Implications complexes|Déterminés à trouver une explication à la Synthèse, le duo tente de savoir où chercher des réponses mais la vie active et agitée de Nate ne les aide pas vraiment.|
+|11.|✅|**★**|**It only takes two**|**La troisième roue**|N'arrivant plus à repousser une confrontation délicate mais inévitable face à Lynn, les garçons sont obligés de gérer une situation aussi absurde que critique.|
+|12.|✅||The short|Le court-métrage|Nate trouve une piste de potentielles réponses en fouillant dans ses souvenirs. Andy a une théorie similaire, mais des détails lui manquent et l'identité de la seule personne à pouvoir l'éclairer ne l'enchante pas.|
+|**13.**|✅|**★★**|***Let's dream back***|***Machine arrière***|Nate et Andy pensent toucher au but, et doivent s'engager dans une rétrospective riche en réponses, révélant un tout autre sens à leurs vies respectives.|
+|*14.*|✅|**⎇**|*Neridium*|*Neridium*|Aux origines bien plus profondes qu'il n'y paraissait, la Synthèse délivre ses secrets au lecteur.|
+|15.|✅|**★ 🌧**|For each other|L'un pour l'autre|Nate et Andy assimilent tant bien que mal la vérité sur leur lien, tandis que certaines choses ne leur posent désormais plus le moindre doute. Au même moment, quelqu'un fait un retour inattendu.|
 
 ## Part 3 : The Lost Souls // Les Âmes Perdues
 
 |Numéro|Statut|Flags|Titre anglais|Titre français|Accroche|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|16.|…|**☀**|Everything is fine|Péter la forme|Plusieurs mois se sont écoulés, Nate et Andy s'accoutument au fonctionnement de leur Synthèse désormais bien plus clair. Pendant ce temps, Andy a une idée derrière la tête, qui pourrait tout changer.|
+|16.|📝|**☀**|Everything is fine|Péter la forme|Plusieurs mois se sont écoulés, Nate et Andy s'accoutument au fonctionnement de leur Synthèse désormais bien plus clair. Pendant ce temps, Andy a une idée derrière la tête, qui pourrait tout changer.|
 |17.|…|**★ 🌧**|**The things you notice**|**La vérité en face**|Face à la détresse d'Helena, Nate tente de lui apporter du réconfort avec l'aide d'un Andy peut-être trop impliqué.|
 |**18.**|…|**★★ 🌧**|***Jammed***|***Brouillé***|Une avancée conséquente apporte des résultats qui mettent rudement à l'épreuve le lien entre les deux âmes.|
 |19.|…|**★★ 🌧**|***If you can hear me***|***Si tu peux m'entendre***|Nate affronte son pire cauchemar dans un élan de pur désespoir.|
